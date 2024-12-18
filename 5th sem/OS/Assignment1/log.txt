@@ -1,0 +1,4 @@
+ % GREET USER % Wed, Sep 13, 2023  9:15:15 AM
+ % LARGE LIST % Wed, Sep 13, 2023  9:15:31 AM
+ % DISK USAGE % Wed, Sep 13, 2023  9:15:43 AM
+ % VIEW LOG % Wed, Sep 13, 2023  9:15:56 AM

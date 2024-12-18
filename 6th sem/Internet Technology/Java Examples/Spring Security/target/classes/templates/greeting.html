@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>Getting Started: Serving Web Content</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title %<p th:text="'Hello, ' + ${name} + '!'" />
+    <p th:text="'Dependency Injection Example- ' + ${feature} + '!'" />*/
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+/* Page Content */
+.content {padding:20px;}
+</style>
+</head>
+</head>
+<body>
+<div class="header">
+    <p th:text="'JPA Example- ' + ${person} + '!'" />
+ </div>
+ <br><br>
+ <form method="POST" action="greeting2">
+	  <center>
+	  <div class="header">
+      <H2>Enter the name to search for</H2>
+<input type="text" name="name" id="name" onblur="verify(this)" />
+<br>
+
+<H1>
+      <input type="SUBMIT"></H1>
+      </div>
+	
+    </form>
+</body>
+</html>

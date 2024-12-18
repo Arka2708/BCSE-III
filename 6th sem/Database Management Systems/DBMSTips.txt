@@ -1,0 +1,7 @@
+# Tips
+
+1. Read through all the theory slides (i.e. all except SQL and PL/SQL).
+2. For SQL and PL/SQL, keep the code you did in class handy.
+3. You can skip 09X and 10X slides and directly read SKS - Query Processing and SKS - Transaction Processing.
+4. Go through SKS notes and create a mind map. 
+5. ProTip : If you can cite a small example when doing schema related questions, you will get bonus marks.
